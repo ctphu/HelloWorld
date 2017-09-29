@@ -11,6 +11,7 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            Console.Write("Press Enter to exit:");
             Console.Read();
         }
     }
